@@ -22,7 +22,7 @@ Bu, bir çalışan yönetim paneli uygulamasıdır. Uygulamanın temel özellikl
 - Entity Framework Core (Veri erişimi için)
 - Microsoft SQL Server (Veritabanı)
 
-İmport işlemi için örnek veri seti : https://disk.yandex.com.tr/i/3W_glM091nn19Q
+İmport işlemi için örnek veri seti ve Seed dosyası : https://disk.yandex.com.tr/i/3W_glM091nn19Q
 
 https://github.com/user-attachments/assets/6e19983e-69b4-488f-a5c6-42d169d7571e
 
